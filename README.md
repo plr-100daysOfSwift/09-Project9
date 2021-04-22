@@ -12,3 +12,4 @@ In this technique project we return to [project 7](https://github.com/plr-100day
 3. Modify project 7 so that your filtering code takes place in the background. This filtering code was added in one of the challenges for the project, so hopefully you didn’t skip it!
 
 [Challenge 1](https://github.com/plr-100daysOfSwift/01-StormViewer/tree/challenge-9-1)
+[Challenge 2](https://github.com/plr-100daysOfSwift/08-Project8/tree/challenge-9-2)
