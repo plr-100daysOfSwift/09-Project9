@@ -13,3 +13,4 @@ In this technique project we return to [project 7](https://github.com/plr-100day
 
 * [Challenge 1](https://github.com/plr-100daysOfSwift/01-StormViewer/tree/challenge-9-1)
 * [Challenge 2](https://github.com/plr-100daysOfSwift/08-Project8/tree/challenge-9-2)
+* [Challenge 3](https://github.com/plr-100daysOfSwift/07-Project7/tree/challenge-9-3)
